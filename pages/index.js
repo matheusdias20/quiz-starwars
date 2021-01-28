@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 /* eslint-disable react/jsx-no-bind */
 /* eslint-disable func-names */
 /* eslint-disable space-before-function-paren */
@@ -47,7 +48,9 @@ export default function Home() {
         <title>Quiz - Star Wars</title>
       </Head>
       <QuizContainer>
-        <QuizLogo />
+        <a href="#">
+          <img src="https://seeklogo.com/images/S/Star_Wars-logo-97DD55947B-seeklogo.com.png" alt="" width="150" />
+        </a>
         <Widget>
           <Widget.Header>
             <h1>{db.title}</h1>

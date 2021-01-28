@@ -4,25 +4,123 @@
     "description": "Teste os seus conhecimentos sobre a saga Star Wars",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
+        "image": "https://media0.giphy.com/media/TLmUtm5SbN1tc2c2q9/200.gif",
+        "title": "O que era a ordem 66?",
         "description": "Essa é pra aquecer",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Uma Ordem para extrair fontes de energia dos planetas.",
+          "Uma Ordem para destruir planetas.",
+          "Uma Ordem para destuir todos os Jedi",
+          "Uma Ordem para acabar com todos os Sith"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://data.whicdn.com/images/326076507/original.gif",
+        "title": "Que apelido Han Solo chama o Luke Skywalker?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+          "Buckaroo",
+          "Criança",
+          "Skydancer",
+          "Lukie"
+        ]
+      },
+      {
+        "image": "https://m.gifmania.pt/Gifs-Animados-Filmes/Imagens-Animadas-Filme-Ficcao-Cientifica/Gif-Animados-Star-Wars/Ewoks/Ewoks-51886.gif",
+        "title": "Em que planeta vivem os Ewoks",
+        "description": "",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+          "Endor",
+          "Naboo",
+          "Coruscant",
+          "Tatooine"
+        ]
+      },
+      {
+        "image": "https://data.whicdn.com/images/57611060/original.gif",
+        "title": "Por que Anakin foi para o lado Sombrio?",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+          "Porque ele odiava os Jedi",
+          "Porque ele queria se vingar",
+          "Para ficar poderoso e destruir que ele odiava, e ter um poder que nenhum Jedi jamais conseguiu",
+          "Para salvar a vida de Padmé de um sono que ele teve, no qual ela morria em seu parto"
+        ]
+      },
+      {
+        "image": "https://media3.giphy.com/media/WwpvJWNPq3WEhxvTef/giphy.gif",
+        "title": "Qual é a cor do sabre de luz da Rey?",
+        "description": "",
+        "answer": 0,
+        "alternatives": [
+          "Amarelo",
+          "Azul",
+          "Vermelho",
+          "Verde"
+        ]
+      },
+      {
+        "image": "https://media1.giphy.com/media/1xo9COytfPE9chS05b/giphy.gif",
+        "title": "Quem explodiu a primeira Estrela da Morte?",
+        "description": "",
+        "answer": 2,
+        "alternatives": [
+          "Princesa Leia",
+          "Han Solo",
+          "Luke Skywalker",
+          "Chewbacca"
+        ]
+      },
+      {
+        "image": "https://thumbs.gfycat.com/SizzlingQuestionableAntipodesgreenparakeet-small.gif",
+        "title": "Quem dá o golpe final que destrói a segunda Estrela da Morte?",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+          "Han Solo",
+          "Luke Skywalker",
+          "Jar Jar Binks",
+          "Lando Calrissian"
+        ]
+      },
+      {
+        "image": "https://media.tenor.com/images/200e19d8470333ee35c447c43c4fb9c2/tenor.gif",
+        "title": "Qual é a arma de escolha de Chewbacca?",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+          "Rifle blaster",
+          "Sabre de luz",
+          "Metal Earth",
+          "Bowcaster"
+        ]
+      },
+      {
+        "image": "https://2.bp.blogspot.com/-H4Yh2jq8iqE/WHYrF4wkT4I/AAAAAAAAYj4/7cZVfGIIsIcoJUCgOq9nR_4xWvU4nidzACLcB/s1600/Gifs%2Banimados%2BStormtrooper%2B3.gif",
+        "title": "Onde as Guerras Clônicas começaram?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+          "Tatooine",
+          "Geonosis",
+          "Naboo",
+          "Coruscant"
+        ]
+      },
+      {
+        "image": "https://thumbs.gfycat.com/FeistyUnsteadyFinwhale-small.gif",
+        "title": "O que aconteceu com Anakin Skywalker durante sua batalha com o Conde Dookan?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+          "Ele perdeu a perna esquerda",
+          "Ele perdeu o braço direito",
+          "Ele perdeu a perna direita",
+          "Ele perdeu o braço esquerdo"
         ]
       }
     ],
