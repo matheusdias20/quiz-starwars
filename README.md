@@ -5,7 +5,13 @@
   <span>O Projeto consiste em uma Aplicação Web de quiz.</span>
 </p>
 
+<p align="center">
+  <img src="home.jpeg" alt="">
+</p>
 
+<p align="center">
+  <img src="quiz.jpeg" alt="">
+</p>
 
 
 ### Site 💻
